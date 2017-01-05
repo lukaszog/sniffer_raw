@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/raw_sniffer.dir/main.c.o  -o raw_sniffer 

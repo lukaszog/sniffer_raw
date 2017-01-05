@@ -1,3 +1,0 @@
-/home/lukassz/CLionProjects/raw_sniffer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lukassz/CLionProjects/raw_sniffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lukassz/CLionProjects/raw_sniffer/cmake-build-debug/CMakeFiles/raw_sniffer.dir
